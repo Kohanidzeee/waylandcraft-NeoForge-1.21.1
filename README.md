@@ -4,6 +4,8 @@ Wayland Compositor in Minecraft
 
 [Demo video](https://youtu.be/cTkEM7b0IQw)
 
+[Download link](https://github.com/Kohanidzeee/waylandcraft-NeoForge-1.21.1/releases/tag/mod)
+
 WaylandCraft 2.1.0 for Minecraft 1.21.1
 
 Unofficial backport of WaylandCraft v2.1.0 from Minecraft 26.1.2 to Minecraft 1.21.1, available for NeoForge.
